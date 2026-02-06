@@ -47,6 +47,13 @@ _All contributors have equal ownership of this project._
 git clone https://github.com/<your-username>/tripdhara.git
 cd tripdhara
 
+---
+
+📌 **Note:**  
+This project was developed as a collaborative academic and innovation project.  
+All team members contributed equally to ideation, development, and testing.
+
+
 
 
 
