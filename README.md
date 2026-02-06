@@ -30,15 +30,6 @@ _All contributors have equal ownership of this project._
 - **Styling:** Tailwind CSS
 - **Maps:** Leaflet / Map APIs
 
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/tripdhara.git
-cd tripdhara
-
 ## 👥 Project Team
 
 This project was collaboratively developed by:
@@ -48,5 +39,14 @@ This project was collaboratively developed by:
 - Homi Lokhande – AI Planning, Logic Design & Optimization  
 
 _All contributors have equal ownership of this project._
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/<your-username>/tripdhara.git
+cd tripdhara
+
+
 
 
